@@ -9,19 +9,19 @@
 	},
 
 	"Call": {
-	  "Free":"0",
+	  "Free":"-1",
 	  "Cost":"0.02",
 	  "Limit":"3",
 	  "OutNet":"0.1"
 	},
 
 	"Internet": {
-      "Free":"0",
+      "Free":"-1",
 	  "Cost":"0.1"
 	},
 
 	"SMS": {
-	  "Free":"0",
+	  "Free":"-1",
 	  "Cost":"1.5"
 	}
 	
