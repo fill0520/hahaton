@@ -1,0 +1,25 @@
+[
+	{
+	"Category":"Call",
+	"Date":"27.07.2018",
+	"Timecode":"12:22:37",
+	"Number to":"0555121212",
+	"Dialing time":"32 sec"
+	},
+
+	{
+	"Category":"Internet",
+	"Megabytes":"122 used",
+	"Date":"27.07.2018",
+	"Timecode":"12:22:37"
+	},
+
+	{
+	"Category":"SMS",
+	"Text size":"120 symbols",
+	"Number to":"0555121212",
+	"Date":"27.07.2018",
+	"Timecode":"12:22:32"
+	}
+
+]
