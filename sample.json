@@ -1,25 +1,86 @@
-[
-	{
-	"Category":"Call",
+import json
+from random import randint
+js = [{
+	"Call":{
 	"Date":"27.07.2018",
 	"Timecode":"12:22:37",
 	"Number to":"0555121212",
 	"Dialing time":"32 sec"
 	},
 
-	{
-	"Category":"Internet",
+	"Internet":{
 	"Megabytes":"122 used",
 	"Date":"27.07.2018",
 	"Timecode":"12:22:37"
 	},
 
-	{
-	"Category":"SMS",
+	"SMS":{
 	"Text size":"120 symbols",
 	"Number to":"0555121212",
 	"Date":"27.07.2018",
-	"Timecode":"12:22:32"
+	"Timecodes":"12:22:32"
 	}
 
-]
+},{
+	"Call":{
+	"Date":"27.07.2018",
+	"Timecode":"12:22:37",
+	"Number to":"0555121212",
+	"Dialing time":"32 sec"
+	},
+
+	"Internet":{
+	"Megabytes":"122 used",
+	"Date":"27.07.2018",
+	"Timecode":"12:22:37"
+	},
+
+	"SMS":{
+	"Text size":"120 symbols",
+	"Number to":"0555121212",
+	"Date":"26.07.2018",
+	"Timecodes":"12:22:32"
+	}
+
+}]
+
+def time():
+	return "{}.{}.{}".format(str(randint(1, 31)),str(randint(1, 12)),str(2018))
+def create():
+
+
+	return {
+	"Call":{
+	"DateTime":time(),
+	"Number to":"0555121212",
+	"Dialing time":"32 sec"
+	},
+
+	"Internet":{
+	"Megabytes":"122 used",
+	"Date":"27.07.2018",
+	"Timecode":"12:22:37"
+	},
+
+	"SMS":{
+	"Text size":"120 symbols",
+	"Number to":"0555121212",
+	"Date":"26.07.2018",
+	"Timecodes":"12:22:32"
+	}
+
+}
+
+a = json.dumps(js, indent=4)
+
+a = json.loads(a)
+print(a[0]['SMS']['Date'])
+print(a[1]['SMS']['Date'])
+
+
+
+for i in range(50):
+	js.append(create())
+js = json.dumps(js, indent=4)
+print(js)
+
