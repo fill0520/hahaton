@@ -1,0 +1,1 @@
+http://download.oracle.com/otndocs/jcp/java_card_kit-2.2.2-fr-oth-JSpec/
