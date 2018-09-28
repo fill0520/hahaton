@@ -1,32 +1,32 @@
 
 [{ 
 	"Info": {
-      "Name":"Ozgocho", #название
-      "Requires":"0", #при единице не взимает абонплату за дни без использования пакетов
-      "PaymentDay":"-1", #абонплата
-      "Reset":"-1" #сброс пакетов. -1 не сбрасывает, n сбрасывает каждые n дней
+      "Name":"Ozgocho",
+      "Requires":"0",
+      "PaymentDay":"0",
+      "Reset":"0"
 	},
 
 	"Call": {
-	  "Free":"-1", #бесплатные секунды вне зависимости от времени суток
-	  "Free1":"-1", #17:00-00:00, бесплатные секунды
-	  "Free2":"-1", #00:00-17:00, бесплатные секунды
-	  "FreeOut":"-1", #бесплатные секунды на не О!
-	  "Cost":"0.02", #стоимость секунды в сети
-	  "CostOut":"0.1" #стоимость секунды вне сети
+	  "Free":"0",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
+	  "Cost":"0.02",
+	  "CostOut":"0.1"
 	},
 
 	"Internet": {
-      "Free":"-1", #бесплатные мегабайты интернета
-	  "Cost":"0.1" #стоимость за каждые 0.1 мегабайт
+      "Free":"0",
+	  "Cost":"0.1"
 	},
 
 	"SMS": {
-	  "Free":"-1", #бесплатные смс вне зависимости от времени
-	  "Free1":"-1", #17:00 - 00:00 бесплатные смс
-	  "Free2":"-1", #00:00 - 17:00 смс
-	  "FreeOut":"-1", #бесплатные смс вне сети
-	  "Cost":"1.5" #стоимость ВСЕХ смс
+	  "Free":"0",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
+	  "Cost":"1.5"
 	}
 
 },
@@ -40,23 +40,23 @@
 
 	"Call": {
 	  "Free":"300",
-	  "Free1":"-1",
-	  "Free2":"-1",
-	  "FreeOut":"-1",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
 	  "Cost":"0.0197",
 	  "CostOut":"0.0832"
 	},
 
 	"Internet": {
-      "Free":"-1",
+      "Free":"0",
 	  "Cost":"0.299"
 	},
 
 	"SMS": {
 	  "Free":"5",
-	  "Free1":"-1",
-	  "Free2":"-1",
-	  "FreeOut":"-1",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
 	  "Cost":"1.5"
 	}
 
@@ -66,28 +66,28 @@
       "Name":"Paidaluu",
       "Requires":"0",
       "PaymentDay":"3.33",
-      "Reset":"-1"
+      "Reset":"0"
 	},
 
 	"Call": {
 	  "Free":"6000",
-	  "Free1":"-1",
-	  "Free2":"-1",
-	  "FreeOut":"-1",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
 	  "Cost":"0.0225",
 	  "CostOut":"0.09"
 	},
 
 	"Internet": {
-      "Free":"-1",
+      "Free":"0",
 	  "Cost":"0.1"
 	},
 
 	"SMS": {
-	  "Free":"-1",
-	  "Free1":"-1",
-	  "Free2":"-1",
-	  "FreeOut":"-1",
+	  "Free":"0",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
 	  "Cost":"1.5"
 	}
 
@@ -101,23 +101,23 @@
 	},
 
 	"Call": {
-	  "Free":"-1",
-	  "Free1":"1200",
-	  "Free2":"10800",
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
 	  "FreeOut":"300",
 	  "Cost":"0.0197",
 	  "CostOut":"0.082"
 	},
 
 	"Internet": {
-      "Free":"-1",
+      "Free":"0",
 	  "Cost":"0"
 	},
 
 	"SMS": {
-	  "Free":"-1",
-	  "Free1":"40",
-	  "Free2":"140",
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
 	  "FreeOut":"5",
 	  "Cost":"1.5"
 	}
@@ -132,26 +132,211 @@
 	},
 
 	"Call": {
-	  "Free":"-1",
-	  "Free1":"1200",
-	  "Free2":"10800",
-	  "FreeOut":"300",
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"900",
 	  "Cost":"0.0197",
 	  "CostOut":"0.082"
 	},
 
 	"Internet": {
-      "Free":"-1",
+      "Free":"0",
 	  "Cost":"0"
 	},
 
 	"SMS": {
-	  "Free":"-1",
-	  "Free1":"40",
-	  "Free2":"140",
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
 	  "FreeOut":"5",
 	  "Cost":"1.5"
 	}
 
 },
- ]
+{ 
+	"Info": {
+      "Name":"PerehodiNaO!VIP+",
+      "Requires":"0",
+      "PaymentDay":"29.3",
+      "Reset":"7"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"3000",
+	  "Cost":"0.0197",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
+	  "FreeOut":"5",
+	  "Cost":"1.5"
+	}
+
+},
+{ 
+	"Info": {
+      "Name":"PerehodiNaO!Premium",
+      "Requires":"0",
+      "PaymentDay":"41.4",
+      "Reset":"7"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"3600",
+	  "Cost":"0.0197",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
+	  "FreeOut":"5",
+	  "Cost":"1.5"
+	}
+
+},
+{ 
+	"Info": {
+      "Name":"Internet!",
+      "Requires":"0",
+      "PaymentDay":"0",
+      "Reset":"0"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
+	  "Cost":"0.0665",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0.139"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"0",
+	  "Free2":"0",
+	  "FreeOut":"0",
+	  "Cost":"1.5"
+	}
+
+},
+{ 
+	"Info": {
+      "Name":"TvoiO!7",
+      "Requires":"0",
+      "PaymentDay":"6.43",
+      "Reset":"7"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"0",
+	  "Cost":"0.0197",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
+	  "FreeOut":"0",
+	  "Cost":"1.5"
+	}
+
+},
+{ 
+	"Info": {
+      "Name":"TvoiO!30",
+      "Requires":"0",
+      "PaymentDay":"5.3",
+      "Reset":"0"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"0",
+	  "Cost":"0.0197",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
+	  "FreeOut":"0",
+	  "Cost":"1.5"
+	}
+
+},
+{ 
+	"Info": {
+      "Name":"TvoiO!Universal",
+      "Requires":"0",
+      "PaymentDay":"8",
+      "Reset":"0"
+	},
+
+	"Call": {
+	  "Free":"0",
+	  "Free1":"2400",
+	  "Free2":"8400",
+	  "FreeOut":"900",
+	  "Cost":"0.0197",
+	  "CostOut":"0.082"
+	},
+
+	"Internet": {
+      "Free":"0",
+	  "Cost":"0"
+	},
+
+	"SMS": {
+	  "Free":"0",
+	  "Free1":"20",
+	  "Free2":"180",
+	  "FreeOut":"0",
+	  "Cost":"1.5"
+	}
+
+}]
