@@ -64,7 +64,7 @@
       "Name":"Paidaluu",
       "Requires":"0",
       "PaymentDay":"3.33",
-      "Reset":"0"
+      "Reset":"1"
 	},
 
 	"Call": {
@@ -274,7 +274,7 @@
       "Name":"TvoiO!30",
       "Requires":"0",
       "PaymentDay":"5.3",
-      "Reset":"0"
+      "Reset":"30"
 	},
 
 	"Call": {
@@ -304,7 +304,7 @@
       "Name":"TvoiO!Universal",
       "Requires":"0",
       "PaymentDay":"8",
-      "Reset":"0"
+      "Reset":"30"
 	},
 
 	"Call": {
