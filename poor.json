@@ -1,0 +1,572 @@
+[
+    {
+        "Call": {
+            "Date": "01.08.2018",
+            "Time": "20:48:52",
+            "NumberTo": "0702260111",
+            "DialingTime": "59"
+        },
+        "Internet": {
+            "Megabytes": "20",
+            "Date": "01.08.2018",
+            "Time": "04:29:36"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0554987987",
+            "Date": "01.08.2018",
+            "Time": "16:04:30"
+        }
+    },
+    {
+        "Call": {
+            "Date": "02.08.2018",
+            "Time": "10:40:04",
+            "NumberTo": "0700428724",
+            "DialingTime": "57"
+        },
+        "Internet": {
+            "Megabytes": "17",
+            "Date": "02.08.2018",
+            "Time": "08:36:59"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0502671885",
+            "Date": "02.08.2018",
+            "Time": "19:37:18"
+        }
+    },
+    {
+        "Call": {
+            "Date": "03.08.2018",
+            "Time": "14:21:13",
+            "NumberTo": "0708523260",
+            "DialingTime": "71"
+        },
+        "Internet": {
+            "Megabytes": "20",
+            "Date": "03.08.2018",
+            "Time": "04:11:22"
+        },
+        "SMS": {
+            "MessageCount": "0",
+            "NumberTo": "0703805329",
+            "Date": "03.08.2018",
+            "Time": "06:14:10"
+        }
+    },
+    {
+        "Call": {
+            "Date": "04.08.2018",
+            "Time": "21:54:15",
+            "NumberTo": "0703008803",
+            "DialingTime": "44"
+        },
+        "Internet": {
+            "Megabytes": "8",
+            "Date": "04.08.2018",
+            "Time": "02:21:23"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0501628649",
+            "Date": "04.08.2018",
+            "Time": "03:41:56"
+        }
+    },
+    {
+        "Call": {
+            "Date": "05.08.2018",
+            "Time": "09:22:47",
+            "NumberTo": "0554086691",
+            "DialingTime": "50"
+        },
+        "Internet": {
+            "Megabytes": "6",
+            "Date": "05.08.2018",
+            "Time": "09:48:46"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0555410530",
+            "Date": "05.08.2018",
+            "Time": "18:55:04"
+        }
+    },
+    {
+        "Call": {
+            "Date": "06.08.2018",
+            "Time": "04:02:00",
+            "NumberTo": "0708653100",
+            "DialingTime": "22"
+        },
+        "Internet": {
+            "Megabytes": "4",
+            "Date": "06.08.2018",
+            "Time": "13:09:57"
+        },
+        "SMS": {
+            "MessageCount": "0",
+            "NumberTo": "0772221851",
+            "Date": "06.08.2018",
+            "Time": "19:09:26"
+        }
+    },
+    {
+        "Call": {
+            "Date": "07.08.2018",
+            "Time": "01:25:41",
+            "NumberTo": "0704038604",
+            "DialingTime": "111"
+        },
+        "Internet": {
+            "Megabytes": "19",
+            "Date": "07.08.2018",
+            "Time": "19:04:05"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0704855034",
+            "Date": "07.08.2018",
+            "Time": "01:25:25"
+        }
+    },
+    {
+        "Call": {
+            "Date": "08.08.2018",
+            "Time": "20:10:05",
+            "NumberTo": "0703963763",
+            "DialingTime": "90"
+        },
+        "Internet": {
+            "Megabytes": "14",
+            "Date": "08.08.2018",
+            "Time": "02:50:15"
+        },
+        "SMS": {
+            "MessageCount": "0",
+            "NumberTo": "0707518173",
+            "Date": "08.08.2018",
+            "Time": "11:08:21"
+        }
+    },
+    {
+        "Call": {
+            "Date": "09.08.2018",
+            "Time": "18:57:56",
+            "NumberTo": "0505989703",
+            "DialingTime": "31"
+        },
+        "Internet": {
+            "Megabytes": "15",
+            "Date": "09.08.2018",
+            "Time": "16:23:57"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0552217545",
+            "Date": "09.08.2018",
+            "Time": "11:13:05"
+        }
+    },
+    {
+        "Call": {
+            "Date": "10.08.2018",
+            "Time": "14:47:01",
+            "NumberTo": "0700967281",
+            "DialingTime": "96"
+        },
+        "Internet": {
+            "Megabytes": "7",
+            "Date": "10.08.2018",
+            "Time": "19:16:41"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0555531656",
+            "Date": "10.08.2018",
+            "Time": "16:16:30"
+        }
+    },
+    {
+        "Call": {
+            "Date": "11.08.2018",
+            "Time": "03:29:59",
+            "NumberTo": "0507369881",
+            "DialingTime": "58"
+        },
+        "Internet": {
+            "Megabytes": "4",
+            "Date": "11.08.2018",
+            "Time": "12:19:39"
+        },
+        "SMS": {
+            "MessageCount": "0",
+            "NumberTo": "0554748575",
+            "Date": "11.08.2018",
+            "Time": "14:46:13"
+        }
+    },
+    {
+        "Call": {
+            "Date": "12.08.2018",
+            "Time": "14:51:27",
+            "NumberTo": "0505713797",
+            "DialingTime": "39"
+        },
+        "Internet": {
+            "Megabytes": "10",
+            "Date": "12.08.2018",
+            "Time": "06:23:04"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0708009182",
+            "Date": "12.08.2018",
+            "Time": "20:53:40"
+        }
+    },
+    {
+        "Call": {
+            "Date": "13.08.2018",
+            "Time": "06:54:32",
+            "NumberTo": "0709680638",
+            "DialingTime": "62"
+        },
+        "Internet": {
+            "Megabytes": "9",
+            "Date": "13.08.2018",
+            "Time": "03:48:55"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0502621662",
+            "Date": "13.08.2018",
+            "Time": "15:26:53"
+        }
+    },
+    {
+        "Call": {
+            "Date": "14.08.2018",
+            "Time": "12:07:18",
+            "NumberTo": "0505374366",
+            "DialingTime": "115"
+        },
+        "Internet": {
+            "Megabytes": "3",
+            "Date": "14.08.2018",
+            "Time": "14:22:59"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0552209560",
+            "Date": "14.08.2018",
+            "Time": "02:29:53"
+        }
+    },
+    {
+        "Call": {
+            "Date": "15.08.2018",
+            "Time": "15:06:49",
+            "NumberTo": "0705043090",
+            "DialingTime": "118"
+        },
+        "Internet": {
+            "Megabytes": "19",
+            "Date": "15.08.2018",
+            "Time": "18:31:56"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0770968098",
+            "Date": "15.08.2018",
+            "Time": "23:46:54"
+        }
+    },
+    {
+        "Call": {
+            "Date": "16.08.2018",
+            "Time": "20:06:04",
+            "NumberTo": "0555873959",
+            "DialingTime": "4"
+        },
+        "Internet": {
+            "Megabytes": "3",
+            "Date": "16.08.2018",
+            "Time": "16:06:09"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0554265613",
+            "Date": "16.08.2018",
+            "Time": "12:07:32"
+        }
+    },
+    {
+        "Call": {
+            "Date": "17.08.2018",
+            "Time": "22:43:30",
+            "NumberTo": "0502085243",
+            "DialingTime": "74"
+        },
+        "Internet": {
+            "Megabytes": "9",
+            "Date": "17.08.2018",
+            "Time": "08:30:04"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0501417538",
+            "Date": "17.08.2018",
+            "Time": "14:27:47"
+        }
+    },
+    {
+        "Call": {
+            "Date": "18.08.2018",
+            "Time": "10:15:38",
+            "NumberTo": "0703000374",
+            "DialingTime": "30"
+        },
+        "Internet": {
+            "Megabytes": "19",
+            "Date": "18.08.2018",
+            "Time": "12:51:26"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0708870815",
+            "Date": "18.08.2018",
+            "Time": "23:42:34"
+        }
+    },
+    {
+        "Call": {
+            "Date": "19.08.2018",
+            "Time": "01:02:24",
+            "NumberTo": "0501778666",
+            "DialingTime": "41"
+        },
+        "Internet": {
+            "Megabytes": "17",
+            "Date": "19.08.2018",
+            "Time": "16:20:23"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0502752299",
+            "Date": "19.08.2018",
+            "Time": "00:20:53"
+        }
+    },
+    {
+        "Call": {
+            "Date": "20.08.2018",
+            "Time": "15:22:35",
+            "NumberTo": "0501588095",
+            "DialingTime": "92"
+        },
+        "Internet": {
+            "Megabytes": "9",
+            "Date": "20.08.2018",
+            "Time": "00:46:03"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0705137792",
+            "Date": "20.08.2018",
+            "Time": "11:49:03"
+        }
+    },
+    {
+        "Call": {
+            "Date": "21.08.2018",
+            "Time": "18:44:30",
+            "NumberTo": "0554279218",
+            "DialingTime": "36"
+        },
+        "Internet": {
+            "Megabytes": "3",
+            "Date": "21.08.2018",
+            "Time": "19:10:33"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0505460891",
+            "Date": "21.08.2018",
+            "Time": "22:48:04"
+        }
+    },
+    {
+        "Call": {
+            "Date": "22.08.2018",
+            "Time": "11:41:00",
+            "NumberTo": "0552270059",
+            "DialingTime": "29"
+        },
+        "Internet": {
+            "Megabytes": "0",
+            "Date": "22.08.2018",
+            "Time": "16:52:25"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0502300224",
+            "Date": "22.08.2018",
+            "Time": "03:37:57"
+        }
+    },
+    {
+        "Call": {
+            "Date": "23.08.2018",
+            "Time": "00:12:31",
+            "NumberTo": "0700973472",
+            "DialingTime": "78"
+        },
+        "Internet": {
+            "Megabytes": "4",
+            "Date": "23.08.2018",
+            "Time": "16:41:53"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0709663826",
+            "Date": "23.08.2018",
+            "Time": "00:35:09"
+        }
+    },
+    {
+        "Call": {
+            "Date": "24.08.2018",
+            "Time": "03:31:19",
+            "NumberTo": "0501487132",
+            "DialingTime": "114"
+        },
+        "Internet": {
+            "Megabytes": "5",
+            "Date": "24.08.2018",
+            "Time": "20:41:01"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0708046815",
+            "Date": "24.08.2018",
+            "Time": "07:50:33"
+        }
+    },
+    {
+        "Call": {
+            "Date": "25.08.2018",
+            "Time": "15:18:36",
+            "NumberTo": "0770227368",
+            "DialingTime": "85"
+        },
+        "Internet": {
+            "Megabytes": "0",
+            "Date": "25.08.2018",
+            "Time": "03:28:32"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0772637986",
+            "Date": "25.08.2018",
+            "Time": "18:37:14"
+        }
+    },
+    {
+        "Call": {
+            "Date": "26.08.2018",
+            "Time": "00:23:25",
+            "NumberTo": "0700732820",
+            "DialingTime": "78"
+        },
+        "Internet": {
+            "Megabytes": "16",
+            "Date": "26.08.2018",
+            "Time": "21:52:25"
+        },
+        "SMS": {
+            "MessageCount": "2",
+            "NumberTo": "0552715485",
+            "Date": "26.08.2018",
+            "Time": "09:33:54"
+        }
+    },
+    {
+        "Call": {
+            "Date": "27.08.2018",
+            "Time": "14:30:29",
+            "NumberTo": "0552899622",
+            "DialingTime": "39"
+        },
+        "Internet": {
+            "Megabytes": "9",
+            "Date": "27.08.2018",
+            "Time": "23:52:34"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0703945046",
+            "Date": "27.08.2018",
+            "Time": "01:27:15"
+        }
+    },
+    {
+        "Call": {
+            "Date": "28.08.2018",
+            "Time": "23:03:33",
+            "NumberTo": "0705870412",
+            "DialingTime": "107"
+        },
+        "Internet": {
+            "Megabytes": "11",
+            "Date": "28.08.2018",
+            "Time": "18:01:27"
+        },
+        "SMS": {
+            "MessageCount": "3",
+            "NumberTo": "0554592568",
+            "Date": "28.08.2018",
+            "Time": "06:01:55"
+        }
+    },
+    {
+        "Call": {
+            "Date": "29.08.2018",
+            "Time": "01:54:17",
+            "NumberTo": "0702351567",
+            "DialingTime": "116"
+        },
+        "Internet": {
+            "Megabytes": "8",
+            "Date": "29.08.2018",
+            "Time": "03:15:03"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0772561499",
+            "Date": "29.08.2018",
+            "Time": "03:58:44"
+        }
+    },
+    {
+        "Call": {
+            "Date": "30.08.2018",
+            "Time": "01:55:41",
+            "NumberTo": "0552629151",
+            "DialingTime": "62"
+        },
+        "Internet": {
+            "Megabytes": "11",
+            "Date": "30.08.2018",
+            "Time": "10:12:07"
+        },
+        "SMS": {
+            "MessageCount": "1",
+            "NumberTo": "0500358635",
+            "Date": "30.08.2018",
+            "Time": "18:07:32"
+        }
+    }
+]
